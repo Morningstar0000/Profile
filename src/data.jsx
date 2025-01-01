@@ -37,7 +37,7 @@ export const projects = [
     url: 'https://gallery-project-ten.vercel.app/',
     github: 'https://github.com/Morningstar0000',
     title: 'Gallery project',
-    
+    text: 'This Gallery project is a sleek and responsive web application that fetches high-quality images from the Unsplash API. It provides users with an engaging way to explore and search for images while offering a customizable viewing experience.'
   },
   {
     id: nanoid(),
